@@ -1,1 +1,1 @@
-## Welcome to RIT Nameservice
+<img src="rits.png alt="rits">
