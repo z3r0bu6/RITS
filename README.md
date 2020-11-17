@@ -1,1 +1,1 @@
-RIT NameService
+RITS NS
